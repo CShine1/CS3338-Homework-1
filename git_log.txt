@@ -1,0 +1,68 @@
+commit d27f47bf006d000049df3fecc16a3074c844335b
+Author: e-weimer <elle.weimer@gmail.com>
+Date:   Wed Feb 12 19:44:53 2025 -0800
+
+    Added my info to Cindrella's file.
+
+commit ceb6b0f2d121a32c1f95c8ce22be9f35040d74d9
+Merge: f37cdce 59b2610
+Author: CShine1 <cshine2@calstatela.edu>
+Date:   Mon Feb 10 17:58:03 2025 -0800
+
+    Merge pull request #1 from CShine1/feature-about-me
+    
+    Feature about me
+
+commit 59b2610ac2c8caf08479383033931a3d9b0b9be7
+Merge: b4d5442 f37cdce
+Author: CShine1 <cshine2@calstatela.edu>
+Date:   Mon Feb 10 17:55:29 2025 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit b4d5442612887d9dc918e47d455a3cedeb4f7482
+Author: Cindrella Shine <cindrellashine12@yahoo.com>
+Date:   Mon Feb 10 12:57:52 2025 -0800
+
+    Filled in blanks in div
+    
+    Filled in about me part of the div
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
